@@ -1,0 +1,6 @@
+@TrainCatsApi_HostAddress = http://localhost:5249
+
+GET {{TrainCatsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
