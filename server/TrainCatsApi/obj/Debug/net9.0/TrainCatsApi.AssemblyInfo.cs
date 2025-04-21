@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrainCatsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bbe0f2c147e87e3ecfe6e02c835c36f1187585b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cc449f5d91a57b069dbe9672db7b195e204afeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrainCatsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrainCatsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
