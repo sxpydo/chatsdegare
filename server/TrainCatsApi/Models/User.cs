@@ -4,4 +4,5 @@ public class User
     public string Username { get; set; } = "";
     public string Email { get; set; } = "";
     public DateTime RegistrationDate { get; set; }
+    public ICollection<Report>? Report { get; set; }
 }
